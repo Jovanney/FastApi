@@ -1,3 +1,5 @@
 __pycache__
+fastapi-env
+blog-env
 
-.DS_Store
+
